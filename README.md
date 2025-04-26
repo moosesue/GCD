@@ -1,5 +1,7 @@
 Greatest Common Divisor: From Factor Lists To Elegant Python
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Finding the greatest common divisor (GCD) of two integers is a simple but useful problem in Mathematics. It’s usually taught in primary school and describes finding the largest whole number that divides into both numbers. Sometimes it is called finding the highest common factor (HCF). It’s also sometimes referred to as Euclid’s algorithm, named after the ancient Greek mathematician, Euclid, who lived c300BC. 
 
 A simple example would be finding the highest common factor of 28 and 35.
